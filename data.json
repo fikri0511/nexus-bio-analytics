@@ -1,9 +1,16 @@
 {
-  "total_pageviews": 1,
+  "total_pageviews": 2,
   "clicks": {
     "website": 0,
     "journal": 0,
     "whatsapp": 0,
     "katalog": 0
-  }
+  },
+  "events": [
+    {
+      "type": "pageview",
+      "key": "visitor",
+      "timestamp": "2026-09-30T17:04:54.004Z"
+    }
+  ]
 }
