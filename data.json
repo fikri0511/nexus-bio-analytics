@@ -1,5 +1,5 @@
 {
-  "total_pageviews": 3,
+  "total_pageviews": 4,
   "clicks": {
     "website": 0,
     "journal": 0,
@@ -16,6 +16,11 @@
       "type": "pageview",
       "key": "visitor",
       "timestamp": "2026-10-01T08:39:57.008Z"
+    },
+    {
+      "type": "pageview",
+      "key": "visitor",
+      "timestamp": "2026-10-06T14:33:20.377Z"
     }
   ]
 }
