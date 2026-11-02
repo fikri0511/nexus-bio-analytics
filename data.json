@@ -1,7 +1,7 @@
 {
   "total_pageviews": 14,
   "clicks": {
-    "website": 1,
+    "website": 2,
     "journal": 1,
     "whatsapp": 0,
     "katalog": 0
@@ -81,6 +81,11 @@
       "type": "pageview",
       "key": "visitor",
       "timestamp": "2026-11-02T12:54:16.079Z"
+    },
+    {
+      "type": "click",
+      "key": "website",
+      "timestamp": "2026-11-02T12:54:21.302Z"
     }
   ]
 }
